@@ -9,5 +9,6 @@
 		sync-c="true" />
 
 	<project path="package/apps/phone" name="ComMslee/phone" />
+	<project path="package/apps/test" name="alsrb968/EYD-HL-AU1000" />
 </manifest>
 
