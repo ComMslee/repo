@@ -4,7 +4,7 @@
 		fetch="ssh://git@github.com/"/>
 
 	<default revision="master"
-		remote="tvstorm"
+		remote="origin"
 		sync-j="2"
 		sync-c="true" />
 
