@@ -9,6 +9,6 @@
 		sync-c="true" />
 
 	<project path="package/apps/phone" name="ComMslee/phone" />
-	<project path="package/apps/test" name="alsrb968/LEYD-HL-AU1000" />
+	<project path="package/apps/Litbig" name="alsrb968/LEYD-HL-AU1000/Litbig" />
 </manifest>
 
